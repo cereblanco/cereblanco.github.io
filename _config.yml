@@ -19,10 +19,10 @@ sass:
 
 # SEO settings
 title: Cere Blanco, Software Engineer
-description: "Just another blog on github"
+description: "Cere Blanco, Portfolio on Github"
 keywords: "Cere Blanco, Software Engineer"
 url: cereblanco.github.io
-baseurl: "/me"
+baseurl: ""
 
 google_analytics: ""
 repo: ""
