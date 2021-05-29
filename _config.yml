@@ -18,37 +18,36 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: Cere Blanco, Software Engineer
+description: "Just another blog on github"
+keywords: "Cere Blanco, Software Engineer"
+url: cereblanco.github.io
+baseurl: "/me"
 
-google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
-
+google_analytics: ""
+repo: ""
+disqus_shortname: ""
+disqus_site_shortname: ""
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: Cere Blanco
+  job: Software Engineer
+  bio: "
+  I accidentally majored in Computer Science in college. <br />
+  Then pursued a Masters degree in the same field. <br />
+  I write software for work and for leisure! <br />
+  I like beaches and plants! <br />
+  "
+  location: Manila, Philippines
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: cereblanco@gmail.com
+  github: https://github.com/cereblanco
+  twitter: https://twitter.com/cereblanco
+  linkedin: https://linkedin.com/in/mssblanco
 
 # navbar pages
 navbar:
-  - slug: about
-    title: About
-  - slug: icons
-    title: Icons
-  - slug: blog
+  - slug: Blog
     title: Blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
