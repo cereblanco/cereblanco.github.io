@@ -8,10 +8,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~>3.6.0"
-gem "rake", "~>10.5"
-gem "sass", "~>3.4"
-gem "json", "~> 2"
+gem "jekyll"
+gem "rake"
+gem "sass"
+gem "json"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -27,3 +27,5 @@ group :jekyll_plugins do
   gem "jekyll-compose"
   gem "kramdown"
 end
+
+gem "webrick", "~> 1.7"
