@@ -4,11 +4,7 @@ install:
 start:
 	bundle exec jekyll serve
 
-stage:
+deploy:
 	rake
 
-deploy:
-	rake publish
-
-
-.PHONY: install start
+.PHONY: install start deploy
