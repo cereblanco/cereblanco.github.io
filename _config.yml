@@ -46,8 +46,8 @@ author:
   linkedin: https://linkedin.com/in/mssblanco
 
 # navbar pages
-navbar:
-  - slug: Blog
-    title: Blog
+# navbar:
+#   - slug: Blog
+#     title: Blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
