@@ -9,8 +9,7 @@ layout: default
       <h3>Hello, there! I'm <strong itemprop="name">{{ site.author.name }}</strong>, a <em itemprop="jobTitle">{{ site.author.job }}</em> based in {{ site.author.location }}.</h3>
       <p>{{ site.author.bio }}</p>
       <hr />
-      <a href="{{ '/about' | prepend: site.baseurl }}" class="link" title="about">About</a>
-      <a href="{{ '/project' | prepend: site.baseurl }}" class="link" title="Projects">Projects</a>
+      <a href="{{ '/project' | prepend: site.baseurl }}" class="link" title="Projects">Side Projects</a>
       <a href="https://github.com/cereblanco/todayilearned" class="link" title="blog">Notes & Scribbles</a>
       {% include social.html %}
     </div>
