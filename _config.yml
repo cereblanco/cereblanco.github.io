@@ -25,7 +25,7 @@ url: cereblanco.github.io
 baseurl: ""
 
 google_analytics: ""
-repo: ""
+repo: "https://github.com/cereblanco/cereblanco.github.io"
 disqus_shortname: ""
 disqus_site_shortname: ""
 # Author settings
