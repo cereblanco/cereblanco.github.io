@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cere Blanco, Software Engineer</title>
+    <description>Cere Blanco, Portfolio on Github</description>
+    <link>cereblanco.github.io/</link>
+    <atom:link href="cereblanco.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 05 Jun 2021 20:51:21 +0800</pubDate>
+    <lastBuildDate>Sat, 05 Jun 2021 20:51:21 +0800</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Project 7 - Multiple Choice </title>
+        <description>&lt;p&gt;&lt;br /&gt;
+I built a simple multiple choice quiz with &lt;strong&gt;React Hooks&lt;/strong&gt; and &lt;strong&gt;Material UI.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Checkout the demo &lt;a href=&quot;https://cereblanco.github.io/project7-web&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Source at &lt;a href=&quot;https://github.com/cereblanco/project7-web&quot;&gt;project7-web&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The contents of the quiz are from my previous project called &lt;strong&gt;Learning English for Pinoys (LEAP)&lt;/strong&gt; - a government-funded desktop software that aims to develop language skills of highschool and college students and help them land employment at BPOs and call centers.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Jun 2021 00:00:00 +0800</pubDate>
+        <link>cereblanco.github.io/blog/2021/project7-web-multiple-choice/</link>
+        <guid isPermaLink="true">cereblanco.github.io/blog/2021/project7-web-multiple-choice/</guid>
+        
+        
+        <category>welcome,</category>
+        
+        <category>about</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+  </channel>
+</rss>
